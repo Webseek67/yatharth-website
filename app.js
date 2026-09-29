@@ -1,6 +1,6 @@
 // ---- Site-wide config: edit these three values ----
 window.SITE = {
-  SHEET_URL: 'PASTE_YOUR_APPS_SCRIPT_URL_HERE',
+  SHEET_URL: 'https://script.google.com/macros/s/AKfycbweyQ5oNMB894yJBfLbAxsgJSbxzLIUqJts8IxUZZn7tG-psB9YYGvyWpyXN-BYI-W8/exec',
   WHATSAPP: '918849125463',
   PHONE: '+918849125463'
 };
